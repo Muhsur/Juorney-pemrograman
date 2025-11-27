@@ -1,4 +1,4 @@
-# LPem 🚀 
+# Juorney-pemrograman 🚀 
 ## PANDUAN LENGKAP MEMULAI KARIR SEBAGAI PROGRAMMER — Kurikulum 12 Weeks from zero to expert
 
 Selamat datang di repositori Learn Pemrograman Python, sebuah panduan belajar lengkap yang dirancang untuk pemula maupun yang ingin memperkuat dasar pemrograman.
@@ -10,35 +10,23 @@ Seluruh materi disusun sistematis, progresif, dan berbasis praktik agar kamu bis
 
 ```
 📁 belajar-pemrograman/
-├── 📄 README.md (file ini - START HERE!)
-├── 📄 PANDUAN_PEMULA.md ⭐ (BACA INI PERTAMA)
-├── 📄 PANDUAN_PEMULA.md ⭐ (BACA INI PERTAMA)
-│   └─ Panduan lengkap persiapan, mindset, tools, dan roadmap
-
-├── 📄 PANDUAN_PEMULA.md ⭐ (BACA INI PERTAMA)
-│
-├── 📄 QUICK_REFERENCE.md ⚡ (5 menit read)
-│   └─ Ringkasan cepat, code snippets, troubleshooting
-│
+├── 📄 INDEX.md (Master navigation & referensi semua file pembelajaran)
+├── 📄 README.md (file ini - Understand overall structure)
+├── 📄 MULAI_HARI_INI.md (Fully setup environment + first program)
+├── 📄 QUICK_REFERENCE.md ⚡ (Ringkasan cepat, code snippets, troubleshooting)
+├── 📄 PANDUAN_PEMULA.md ⭐(Understanding all concepts)
 ├── 📄 KONSEP_FUNDAMENTAL.md 🎓 (Deep dive)
 │   └─ Penjelasan detail setiap konsep + contoh code
 │
-├── 📄 VISUAL_ROADMAP.md 🗺️ (Motivasi & tracking)
+├── 📄 VISUAL_ROADMAP.md 🗺️ (Roadmap visual belajar 12 minggu)
 │   └─ Timeline visual, milestone, tips, red flags
 │
-├── 📄 CHECKLIST_PEMULA.md ✅ (Action items)
+├── 📄 CHECKLIST_PEMULA.md ✅ (Action items,Track progress)
 │   └─ Day-by-day checklist untuk 12 minggu pertama
 │
-├── 📄 pemula.txt (sudah ada)
-│   └─ Original roadmap dari folder
-│
-│
-│
-│
-├── 📄INDEX.md (Master navigation & referensi semua file pembelajaran)
-│
+├── 📄 DAILY_EXERCISES.md (18 latihan harian untuk minggu 1–4d)
+├── 📄 SUMMARY.md (Ringkasan seluruh materi dari repository)
 ├── 📁 python/
-│   ├── intoduction.py (existing)
 │   └── todo_app_starter.py ⭐ (PROJECT 1 TEMPLATE)
 │       └─ Template lengkap untuk belajar & modify
 │
@@ -419,10 +407,5 @@ Semangat, dan selamat datang ke dunia programming! 🎉
 **Last Updated:** November 26, 2025
 **Status:** Ready to Learn ✅
 **Let's Code!** 💻
-
-
-Deepening topics (web, automation, data)
-
-Capstone project
 
 Portofolio GitHub
